@@ -1,4 +1,5 @@
 # Prodigy_ML_Task_5
+Linkedin : https://www.linkedin.com/posts/mithin-pasupuleti-575961263_machinelearning-prodigyinfotech-datascience-activity-7213163965126782976-dHiS?utm_source=share&utm_medium=member_desktop
 🌟 Excited to share my progress on Task-05 of the Comillas Negras Food 101 project! 🌟
 
 🍽️ Task Overview: Developed a deep learning model to accurately classify food items from images and estimate their calorie content, enhancing users' ability to track dietary intake and make informed food choices.
